@@ -1,0 +1,6 @@
+Parsing error: Cannot find module 'next/babel'
+Require stack:
+- /Users/user/development/surfcamp/surfcamp_frontend/node_modules/next/dist/compiled/babel/bundle.js
+- /Users/user/development/surfcamp/surfcamp_frontend/node_modules/next/dist/compiled/babel/eslint-parser.js
+- /Users/user/development/surfcamp/surfcamp_frontend/node_modules/eslint-config-next/parser.js
+- /Users/user/development/surfcamp/surfcamp_frontend/node_modules/@eslint/eslintrc/dist/eslintrc.cjs
